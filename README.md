@@ -1,8 +1,9 @@
 ### Hi 👋 I'm Guilherme Almeida!
 
-- 🔭 I’m working on Audora Tecnologia e Servicos LTDA
-- 🌱 I’m learning TypeScript, ReactJS, NodeJS
-- ⚡ ;)
+- 🔭 I’m Frontend dev at Audora Tecnologia e Servicos LTDA;
+- 🌱 I’m learning TypeScript, ReactJS, NodeJS;
+- 🕹️ I'm a drone lover and fly in the free time making freelas;
+- ⚡ So, contact me to know more ☺️
 
 <div>
   <a href="https://github.com/guilhermeal">
@@ -26,10 +27,13 @@
   ##
 
 
-<div> 
-  <a href="https://www.youtube.com/channel/UCephTmfKL2qfVvVbwaP8lsg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/guiallan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/guilhermeall" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+  <a href="https://github.com/guilhermeal" target="_blank" title="This is my Github"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/guilhermeal" target="_blank" title="This is my GitLab used by Professional Projects from my employer"><img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCephTmfKL2qfVvVbwaP8lsg" target="_blank" title="Youtube channel to share my images by drone"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/guiallan" target="_blank" title="My personal profile at Instagram"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilhermeall" target="_blank" title="See my professional profile at LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5582999633900" target="_blank" title="Contact me on Whatsaspp"><img src="https://img.shields.io/badge/Whatsapp-lime?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   <!-- ![Snake animation](https://github.com/guilhermeal/guilhermeal/blob/output/github-contribution-grid-snake.svg) -->
  
@@ -41,18 +45,4 @@
 
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=guilhermeal&color=red" alt="alexsgross" /> <br>
 
- </div>  
-<!--
-**guilhermeal/guilhermeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </div>
